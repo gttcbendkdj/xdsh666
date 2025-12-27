@@ -1,5 +1,5 @@
 {
-  "name": "fb-captcha",
+  "name": "dou-us-ci-fb-code",
   "version": "1.0.0",
   "dependencies": {
     "imap": "^0.8.19",
